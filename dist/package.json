@@ -1,0 +1,17 @@
+{
+		"version": "1.0.0.0",
+		"author": {"name":"Keerthana Nemili","email":"knemili@stradaji.com"},
+		"resources": [
+			{
+				"resourceId": "rId0",
+				"sourceType": 5,
+				"file": "resources/myCustomVisual19E77754A6C124CDE89AEB3C8DCF8DA28.pbiviz.json"
+			}
+		],
+		"visual": {"name":"myCustomVisual1","displayName":"MyCustomVisual1","guid":"myCustomVisual19E77754A6C124CDE89AEB3C8DCF8DA28","visualClassName":"Visual","version":"1.0.0.0","description":"This is a custom visual created by Keerthana Nemili.","supportUrl":"https://placeholder.com/support","gitHubUrl":""},
+		"metadata": {
+			"pbivizjson": {
+				"resourceId": "rId0"
+			}
+		}
+	}

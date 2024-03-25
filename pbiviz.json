@@ -1,0 +1,26 @@
+{
+    "visual": {
+      "name": "myCustomVisual1",
+      "displayName": "MyCustomVisual1",
+      "guid": "myCustomVisual19E77754A6C124CDE89AEB3C8DCF8DA28",
+      "visualClassName": "Visual",
+      "version": "1.0.0.0",
+      "description": "This is a custom visual created by Keerthana Nemili.",
+      "supportUrl": "https://placeholder.com/support",
+      "gitHubUrl": ""
+    },
+    "apiVersion": "5.3.0",
+    "author": {
+      "name": "Keerthana Nemili",
+      "email": "knemili@stradaji.com"
+    },
+    "assets": {
+      "icon": "assets/icon.png"
+    },
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": [],
+    "version": "1.0.0.0"
+  }
+  
